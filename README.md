@@ -1,2 +1,2 @@
-# DCL -> Deirror's Class Library
+# DSL -> Deirror's Standart Library
 [Library] A library written in C++ which includes vital classes, simplified versions of their originals.
