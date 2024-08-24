@@ -6,7 +6,7 @@ Preferably used for small project as in these classes there aren't all the imple
 I provided a library which can be link statically.
 
 # Steps(My way of doing this kind of stuff)
---------------------------------------------
+---
 
 
 ![Screenshot (600)](https://github.com/user-attachments/assets/6eaec1f7-9d9d-444c-a068-3a49c531e738)
