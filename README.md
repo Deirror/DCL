@@ -13,7 +13,7 @@ Steps
 
 -In "Dependencies" you can create a folder with your library name(For instance, "DCL")
 
-![Screenshot (606)](https://github.com/user-attachments/assets/d640dbde-b2c7-48ce-8736-25788e5bd1e6)
+![Screenshot (601)](https://github.com/user-attachments/assets/093eeba3-c037-4855-8bbc-3694465bd704)
 
 2.Create folders "include" and "lib"(can be src) in "Dependencies".
 
