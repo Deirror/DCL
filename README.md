@@ -23,7 +23,8 @@ Steps
 
 -In "lib"/"src" put your library files(.lib).
 
-
+![Screenshot (603)](https://github.com/user-attachments/assets/c42c380a-7e0e-46dd-bb2d-9e74c75510f7)
+![Screenshot (604)](https://github.com/user-attachments/assets/122d0ef3-2ec6-4581-af6b-888b84e6fbae)
 
 
 
