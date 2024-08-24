@@ -42,6 +42,7 @@ Steps
 
 ![Screenshot (609)](https://github.com/user-attachments/assets/1032bbc7-a4fb-46fc-aed0-451fe962a3a8)
 
+---
 
 That's how my library looks like when it comes down to structure.
 -
