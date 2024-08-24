@@ -1,5 +1,8 @@
 #pragma once
 #include "vec.hpp"
+#include <dcl_defines.h>
+
+DCL_BEGIN
 
 template<typename T>
 class polymorphic_ctr {
@@ -27,3 +30,5 @@ template<typename T>
 void polymorphic_ctr<T>::execute(size_t index, void(*func)(const T*)) const {
 	func(ptrs[index].get());
 }
+
+DCL_END
