@@ -9,13 +9,13 @@ Steps
 -
 //My way of doing this kind of stuff
 
-1.Create a folder (can be "Dependencies").
+1. Create a folder (can be "Dependencies").
 
 -In "Dependencies" you can create a folder with your library name(For instance, "DCL")
 
 ![Screenshot (601)](https://github.com/user-attachments/assets/093eeba3-c037-4855-8bbc-3694465bd704)
 
-2.Create folders "include" and "lib"(can be src) in "Dependencies".
+2. Create folders "include" and "lib"(can be src) in "Dependencies".
 
 ![Screenshot (602)](https://github.com/user-attachments/assets/0ef19c37-b122-47dd-ac40-82828054faff)
 
@@ -28,7 +28,7 @@ Steps
 ![Screenshot (604)](https://github.com/user-attachments/assets/122d0ef3-2ec6-4581-af6b-888b84e6fbae)
 
 
-3.Open your VS and click on Properties on your project
+3. Open your VS and click on Properties on your project
 
 -Path is Configuration Properties/C/C++/General. There you want to add path to "include" in Additional Include Directories box.
 
