@@ -11,7 +11,7 @@ Steps
 
 1. Create a folder (can be "Dependencies").
 
--In "Dependencies" you can create a folder with your library name(For instance, "DCL")
+- In "Dependencies" you can create a folder with your library name(For instance, "DCL")
 
 ![Screenshot (601)](https://github.com/user-attachments/assets/093eeba3-c037-4855-8bbc-3694465bd704)
 
