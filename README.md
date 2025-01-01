@@ -44,6 +44,6 @@ Steps
 
 ---
 
-That's how my library looks like when it comes down to structure.
+That's how my library looks like when it comes down to structure
 -
 ![Screenshot (600)](https://github.com/user-attachments/assets/6eaec1f7-9d9d-444c-a068-3a49c531e738)
