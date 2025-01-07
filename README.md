@@ -1,4 +1,8 @@
 # DCL -> Deirror's Class Library
+
+Description
+-
+
 This library contains classes/data structures and functions which are just written in simpler way than the Microsoft ones. 
 
 Preferably used for small project as in these classes there aren't all the implemented functions provided by Microsoft, but the most used ones + some made by me..
