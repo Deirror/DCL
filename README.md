@@ -1,11 +1,11 @@
-# DCL -> Deirror's Class Library
+# DCL
 
 ![dcl](https://github.com/user-attachments/assets/801b1dd5-5d2d-414b-9428-da3f7cdc7f96)
 
 Description
 -
 
-This library contains classes/data structures and functions which are just written in simpler way than the Microsoft ones. 
+ ***Deirror's Class Library*** contains classes/data structures and functions which are just written in simpler way than the Microsoft ones. 
 
 Preferably used for small project as in these classes there aren't all the implemented functions provided by Microsoft, but the most used ones + some made by me..
 
