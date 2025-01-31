@@ -11,9 +11,8 @@ Preferably used for small project as in these classes there aren't all the imple
 
 I provided a library which can be linked statically.
 
-Steps
+Steps(My way of doing this kind of stuff)
 -
-//My way of doing this kind of stuff
 
 1. Create a folder (can be "Dependencies")
 
